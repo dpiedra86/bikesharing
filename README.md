@@ -34,14 +34,17 @@ The project consisted into making an analysis to better understand the bahaviour
 ![checkout_time_by_user](https://github.com/dpiedra86/bikesharing/blob/main/Images/user_trips_gender_weekday.png)
 
 > Bike Repairs
-> With this chart we can see how heavy is the usage per byke.
+> With this chart we can see how heavy is the usage per byke. Really helpfull to map which ones will need maintainance sooner. 
 ![checkout_time_by_user](https://github.com/dpiedra86/bikesharing/blob/main/Images/Bike_repairs.png)
 
 
+> Bike Utilization
+> With this chart we can get an idea of the Bike IDs that are being most used by trio duration. 
+![checkout_time_by_user](https://github.com/dpiedra86/bikesharing/blob/main/Images/Bike_Utilization.png)
 
+# Summary
 
-
-![checkout_time_by_user](https://github.com/dpiedra86/bikesharing/blob/main/Images/user_trips_gender_weekday.png)
-
-
+The better we tell our story, the better results we will get. 
+Visualization requires experimenting, some insights happen once you are making some crosses with different measures and dimensions.
+It is important to choose a good chart that suits the type of data we are trying to display.
 
